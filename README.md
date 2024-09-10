@@ -8,8 +8,6 @@
      Terraform - Infra development.
 - 💞️ I’m looking to collaborate with anyone who can give and take solutions based on the Above mentioned subjects.
 - 📫 How to reach me kannawin3011@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 imaDevOpsguy/imaDevOpsguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
